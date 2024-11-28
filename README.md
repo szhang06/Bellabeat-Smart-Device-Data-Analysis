@@ -17,7 +17,7 @@ The dataset consists of 29 CSV files and is publicly licensed under CC0.
 
 ## Project Workflow
   - Fllow the steps of the data analysis process: **ask**, **prepare**, **process**, **analyze**, **share**, and **act**.
-  - 
+    
 ## **Tools Used**
   - **SQL**: Data cleaning and transformation.
   - **Google Sheets**: Quick validation and exploration.
