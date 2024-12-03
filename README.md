@@ -23,3 +23,7 @@ The dataset consists of 29 CSV files and is publicly licensed under CC0.
   - **Google Sheets**: Quick validation and exploration.
   - **Power BI**: Create dashboards.
   - **Google Slides**: Presentation to stakholders.
+## **Deliverables**
+  - Analysis Documentation
+  - Power BI Dashboard
+  - Presentation Slides
