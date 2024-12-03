@@ -1,4 +1,4 @@
-# Smart Device Usage Analysis
+# Bellabeat Marketing Analysis Case Study
 ## Overview
 This project analyzes smart device usage data to uncover user habits and provide actionable insights for Bellabeat, a high-tech wellness product manufacturer for women. The goal was to use these insights to help shape Bellabeat's marketing strategies for its products. The analysis focused on one of Bellabeat’s key products, with the ultimate aim of presenting high-level recommendations to the executive team on how to enhance user engagement and drive growth.
 
