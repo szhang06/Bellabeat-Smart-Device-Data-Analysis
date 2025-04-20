@@ -1,6 +1,6 @@
 # Bellabeat Marketing Analysis Case Study
 ## Overview
-This project analyzed fitness tracker data to gain insights on how consumers use the products of Bellabeat, a high-tech wellness product manufactuers for women. The goal was to use these insights to help shape Bellabeat's marketing strategies. The analysis focused on one of Bellabeat’s key products (Bellabeat app, wearable tracker Leaf, wellness bottle, watch and memeberships) with the ultimate aim of presenting high-level recommendations to the executive team on how to enhance user engagement and drive growth.
+This project analyzed fitness tracker data to gain insights on how consumers use the products of Bellabeat, a high-tech wellness product manufactuers for women. The goal was to use these insights to help shape Bellabeat's marketing strategies. The analysis focused on one of Bellabeat’s key products (Bellabeat app, wearable tracker Leaf, wellness bottle, watch and memberships) with the ultimate aim of presenting high-level recommendations to the executive team on how to enhance user engagement and drive growth.
 
 ## Objective
 The key objectives of this analysis are to:
